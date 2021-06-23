@@ -1,0 +1,6 @@
+-------------------------------------------------------------
+Weather Stats for - JALNA  || 23 Jun 2021 | 07:44:50 AM-------------------------------------------------------------
+Current temperature is: 37.17 deg C
+Current weather desc  :clear sky
+Current Humidity      :12% 
+Current wind speed    : 2.45 kmph 
